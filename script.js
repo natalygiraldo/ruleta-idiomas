@@ -5,7 +5,8 @@ const languages = [
   "Italiano",
   "Chino",
   "Ruso",
-  "Árabe"
+  "Árabe",
+  "Alemán"
 ];
 
 const colors = [
@@ -15,7 +16,8 @@ const colors = [
   "#06b6d4", // Cian/Turquesa (Italiano)
   "#f97316", // Naranja (Chino)
   "#ec4899", // Rosa (Ruso)
-  "#8b5cf6"  // Violeta (Árabe)
+  "#8b5cf6", // Violeta (Árabe)
+  "#d60819" // (Alemán)
 ];
 
 const canvas = document.getElementById("wheel");
