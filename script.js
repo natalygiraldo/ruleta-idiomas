@@ -6,18 +6,22 @@ const languages = [
   "Chino",
   "Ruso",
   "Árabe",
-  "Alemán"
+  "Alemán",
+  "Indonesio",
+  "Tágalo"
 ];
 
 const colors = [
-  "#3b82f6", // Azul (Portugués)
-  "#22c55e", // Verde (Inglés)
-  "#eab308", // Amarillo (Francés)
-  "#06b6d4", // Cian/Turquesa (Italiano)
-  "#f97316", // Naranja (Chino)
-  "#ec4899", // Rosa (Ruso)
-  "#8b5cf6", // Violeta (Árabe)
-  "#d60819" // (Alemán)
+  "#2BACB2", // (Portugués)
+  "#D65B0B", // (Inglés)
+  "#2BACB2", // (Francés)
+  "#D65B0B", // (Italiano)
+  "#2BACB2", // (Chino)
+  "#D65B0B", // (Ruso)
+  "#2BACB2", // (Árabe)
+  "#D65B0B", // (Alemán)
+  "#2BACB2", // (Indonesio)
+  "#D65B0B" // (Tágalo)
 ];
 
 const canvas = document.getElementById("wheel");
