@@ -21,7 +21,7 @@ const colors = [
   "#2BACB2", // (Árabe)
   "#D65B0B", // (Alemán)
   "#2BACB2", // (Indonesio)
-  "#D65B0B" // (Tágalo)
+  "#D65B0B" // (Tágalo) //
 ];
 
 const canvas = document.getElementById("wheel");
