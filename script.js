@@ -22,7 +22,7 @@ const colors = [
   "#752bb2", // (Árabe)
   "#d60bcf", // (Alemán)
   "#ed2626", // (Indonesio)
-  "#f84848" // (Tágalo) 
+  "#f84848", // (Filipino/Tágalo) 
   "#f90909" // (Tailándes)
 ];
 
