@@ -8,7 +8,8 @@ const languages = [
   "Árabe",
   "Alemán",
   "Indonesio",
-  "Tágalo"
+  "Filipino",
+  "Tailandés"
 ];
 
 const colors = [
@@ -21,7 +22,8 @@ const colors = [
   "#752bb2", // (Árabe)
   "#d60bcf", // (Alemán)
   "#ed2626", // (Indonesio)
-  "#f84848" // (Tágalo) //
+  "#f84848" // (Tágalo) 
+  "#f90909" // (Tailándes)
 ];
 
 const canvas = document.getElementById("wheel");
