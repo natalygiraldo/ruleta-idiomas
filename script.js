@@ -13,17 +13,17 @@ const languages = [
 ];
 
 const colors = [
-  "#f80303", // (Portugués)
-  "#f98304", // (Inglés)
-  "#f2e30c", // (Francés)
-  "#32cc03", // (Italiano)
-  "#2cecf7", // (Chino)
-  "#7042ee", // (Ruso)
-  "#752bb2", // (Árabe)
-  "#d60bcf", // (Alemán)
-  "#ed2626", // (Indonesio)
-  "#f84848", // (Filipino/Tágalo) 
-  "#f90909" // (Tailándes)
+  "#ec1b1b", // (Portugués)
+  "#f98704", // (Inglés)
+  "#f9ac04", // (Francés)
+  "#e8da13", // (Italiano)
+  "#bccc10", // (Chino)
+  "#51df34", // (Ruso)
+  "#04b41c", // (Árabe)
+  "#05e6f7", // (Alemán)
+  "#29b0f4", // (Indonesio)
+  "#8948f8", // (Filipino/Tágalo) 
+  "#f51cdc" // (Tailándes)
 ];
 
 const canvas = document.getElementById("wheel");

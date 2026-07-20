@@ -2,7 +2,7 @@
       margin: 0;
       font-family: Arial, sans-serif;
       background: linear-gradient(135deg, #0f172a, #1e293b);
-      color: white;
+      color: rgb(254, 253, 253);
       display: flex;
       justify-content: center;
       align-items: center;
